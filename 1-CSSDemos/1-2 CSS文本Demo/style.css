@@ -1,0 +1,49 @@
+#setcolor{
+    color: brown;
+}
+
+#setbgcolor{
+    background-color: aqua;
+}
+
+#letterspace{
+    letter-spacing: 10px; //设置字符间距
+}
+
+#linespaceprecent{
+    line-height: 400%;  //设置行间距
+}
+
+#linespacepx{
+    line-height: 90px;
+}
+
+#linspacenum{
+    line-height: 5;
+}
+
+#textalign{
+    display: block;
+    text-align: center;
+}
+
+#showtext{
+    text-decoration: underline;
+}
+
+#textem{
+    display: block;
+    text-indent: 2em;
+}
+
+#letterctrl{
+    text-transform: uppercase;
+}
+
+#noneline{
+    white-space: nowrap; //禁止折行
+}
+
+#word{
+    word-spacing: 22px;
+}
