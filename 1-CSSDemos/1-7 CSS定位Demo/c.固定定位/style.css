@@ -1,0 +1,16 @@
+#fix_block{
+    background-color: aquamarine;
+    width:100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+    position: fixed;
+    right:20px;
+    bottom: 50px;
+}
+
+#fix_block a{
+    font-size: 20px;
+    color:#000;
+    text-decoration: none;
+}

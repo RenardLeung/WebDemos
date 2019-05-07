@@ -1,0 +1,26 @@
+#fontfamily{
+    font-family: "Times New Roman";
+}
+
+#fontsize{
+    font-size:30px;
+}
+
+#fontstyle{
+    font-style: italic;
+}
+
+#fontvariant{
+    font-variant:small-caps; //设置为小型大写字母
+}
+
+#fontweight{
+    font-weight: 600;
+}
+
+#font{
+    /*顺序依次是:style varient weight size/line-height family*/
+    font:italic small-caps bold 35px/2em "Times New Roman";
+}
+
+

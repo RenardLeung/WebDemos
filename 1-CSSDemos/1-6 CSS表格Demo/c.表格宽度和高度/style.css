@@ -1,0 +1,12 @@
+table,th,td{
+    border: solid 1px blue;
+    border-collapse: collapse;
+}
+
+table{
+    width:60%;
+}
+
+th,td{
+    height: 50px;
+}

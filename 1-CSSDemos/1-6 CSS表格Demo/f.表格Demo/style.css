@@ -1,0 +1,22 @@
+#custom{
+    width: 60%;
+    height: 60px;
+}
+
+#custom,#custom th,#custom td{
+    text-align: center;
+    vertical-align: middle;
+    border:solid 1px green;
+    border-collapse: collapse;
+}
+
+#custom th{
+    font-weight: bold;
+    color:white;
+    background-color: darkgreen;
+}
+
+
+#custom .alt{
+    background-color: lightgreen;
+}

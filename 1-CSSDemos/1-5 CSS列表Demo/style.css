@@ -1,0 +1,11 @@
+#front{
+  list-style: circle;
+}
+
+#behind{
+    list-style: none;
+}
+
+#mobile{
+    list-style: disc;
+}

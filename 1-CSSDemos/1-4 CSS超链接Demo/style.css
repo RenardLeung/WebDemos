@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color:#000;
+}
+
+a:link,a:visited{
+    background-color: cornflowerblue;
+}
+
+a:hover,a:active{
+    background-color: aqua;
+    font-size: 26px;
+}

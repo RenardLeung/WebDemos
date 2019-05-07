@@ -1,0 +1,14 @@
+table,th,td{
+    border: solid 1px blue;
+    border-collapse: collapse;
+}
+
+table{
+    width:60%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+th,td{
+    height: 50px;
+}
