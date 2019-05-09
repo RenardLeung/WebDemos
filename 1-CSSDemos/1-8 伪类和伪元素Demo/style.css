@@ -1,0 +1,7 @@
+h1:before{
+    content: '我出现在每一个标题前';
+}
+
+h1:after{
+    content:'我出现在每一个标题后';
+}

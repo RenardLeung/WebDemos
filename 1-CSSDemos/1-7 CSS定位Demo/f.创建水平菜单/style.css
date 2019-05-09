@@ -1,0 +1,13 @@
+li{
+    width:7em;
+    float:left;
+    background-color: aquamarine;
+    list-style: none;
+    text-align: center;
+    border: solid 1px #000;
+}
+
+body,ul,li{
+    margin:0;
+    padding:0;
+}

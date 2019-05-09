@@ -1,0 +1,20 @@
+body,div,ul,li{
+    margin:0;
+    padding:0;
+}
+
+#content{
+    width:930px;
+    margin:0 auto;
+}
+
+#top{
+    height:28px;
+    color:dimgray;
+    font-size:14px;
+}
+
+#banner{
+    height:116px;
+    background-color: lightskyblue;
+}
